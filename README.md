@@ -18,6 +18,11 @@ Power BI – For data modeling and interactive dashboards
 DAX – For calculated columns and custom measures
 
 Excel / CSV – For raw data input and minor preprocessing
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D6?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-FF6C37?style=for-the-badge)
+
 
 📊 Key Features
 Monthly Booking Trends
